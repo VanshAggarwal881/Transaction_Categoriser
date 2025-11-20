@@ -1,0 +1,59 @@
+categories:
+  Dining:
+    keywords:
+      - restaurant
+      - food
+      - cafe
+      - coffee
+      - starbucks
+      - burger
+      - pizza
+
+  Shopping:
+    keywords:
+      - amazon
+      - flipkart
+      - myntra
+      - store
+      - mall
+
+  Travel:
+    keywords:
+      - uber
+      - ola
+      - flight
+      - airline
+      - booking
+      - vacation
+      - trip
+      - holiday
+      - cab
+      - taxi
+      - bus
+      - train
+      - hotel
+      - airbnb
+      - manali
+      - goa
+      - bali
+      - singapore
+      - thailand
+      - station
+      - business
+      - travel
+
+  Bills:
+    keywords:
+      - electricity
+      - recharge
+      - payment
+      - bill
+      - gas
+      - water
+
+  Entertainment:
+    keywords:
+      - netflix
+      - spotify
+      - youtube
+      - cinema

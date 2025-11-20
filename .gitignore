@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.joblib
+*.pkl
+
+# User/app data
+app/user_data.json
+app/chat_history.json
+
+# Logs and reports
+*.log
+metrics_report.txt
+
+# Database files
+*.db
+*.sqlite3
+
+# Misc
+*.bak
+*.swp
