@@ -1,3 +1,7 @@
+## Demo
+
+[Video Link](https://www.loom.com/share/d66583486bed4b34be3f4e6efdc8edf4)
+
 ## Explainability & Transparency
 
 This app provides clear explanations for every transaction categorization:
